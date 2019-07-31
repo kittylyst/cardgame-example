@@ -1,0 +1,14 @@
+*.class
+*.iml
+.DS_Store
+.idea/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*~
+/target/
+
+.gradle/
+jvm/
